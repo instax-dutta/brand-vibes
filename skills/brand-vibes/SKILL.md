@@ -2,7 +2,7 @@
 name: brand-vibes
 description: >
   Apply any company's design language to a website while vibecoding. Ships a library
-  of 67 full brand design profiles (Stripe, Linear, Vercel, Apple, Claude, Nike,
+  of 66 full brand design profiles (Stripe, Linear, Vercel, Apple, Claude, Nike,
   Ferrari, Spotify, Notion, and more) plus an off-library DNA-extraction workflow.
   Trigger when the user says "make my site feel like X", "X-style / X-vibe /
   X-aesthetic", "apply X's design system", "redesign in the spirit of X", or names a
